@@ -1,0 +1,9 @@
+original.apk
+apk-assets/
+rebuilt-unsigned.apk
+aligned*.apk
+*.idsig
+out/
+node_modules/
+.tools/
+*.log
